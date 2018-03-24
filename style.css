@@ -1,0 +1,39 @@
+.navbar-brand.mb-0.h1 {
+    position: relative;
+    left: 70px;
+
+}
+
+.nav-link {
+    position: relative;
+    right: 172px;
+}
+
+body {
+    background-image: url('upfeathers.png');
+    background-repeat: repeat;
+}
+
+.container {
+    margin: 50px;
+}
+
+.row {
+    padding: 20px;
+}
+
+h1 {
+    padding: 20px;
+}
+.col-md-4 {
+    position: relative;
+}
+.card-text {
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.card-body {
+    background-color: #4aaaa5;
+}
