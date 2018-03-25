@@ -1,3 +1,5 @@
+/* Navbar adjustments */
+
 .navbar-brand.mb-0.h1 {
     position: relative;
     left: 70px;
@@ -12,10 +14,14 @@
     right: 172px;
 }
 
+/* Background pic */
+
 body {
     background-image: url('upfeathers.png');
     background-repeat: repeat;
 }
+
+/* Portfolio/Project Styles */
 
 .container {
     margin: 50px;
@@ -39,7 +45,10 @@ h1 {
 }
 .card-body {
     background-color: #4aaaa5;
-}
+} 
+
+/* Contact Form Styles */
+
  .form-inline {
 margin-top: 15px;
 margin-left: 15px;
@@ -52,4 +61,16 @@ margin-left: 15px;
     margin: 30px;
 } 
 
- 
+/* Social Media styles */
+
+.fa {
+    font-size: 60px;
+    margin-left: 25px;
+    margin-top: 17px;
+}
+
+.panel-body {
+    font-size: 25px;
+    background-color:#4aaaa5;
+    width: 200px
+}
