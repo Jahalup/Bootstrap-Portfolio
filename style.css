@@ -3,6 +3,9 @@
     left: 70px;
 
 }
+.navbar-brand.mb-0.h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 34px;}
 
 .nav-link {
     position: relative;
@@ -37,7 +40,7 @@ h1 {
 .card-body {
     background-color: #4aaaa5;
 }
-.form-inline {
+ .form-inline {
 margin-top: 15px;
 margin-left: 15px;
 }
@@ -47,8 +50,6 @@ margin-left: 15px;
 .form-group {
     font-size: 20px;
     margin: 30px;
-}
+} 
 
-.navbar-brand.mb-0.h1 {
-font-family: 'Lobster', cursive;
-font-size: 34px;}
+ 
