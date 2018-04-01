@@ -25,6 +25,13 @@ body {
 
 .container {
     margin: 50px;
+    
+}
+img {
+    height: 283px;
+}
+.cryst {
+    height: 85px;
 }
 
 .row {
